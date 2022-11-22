@@ -1,8 +1,5 @@
 <h1 align="center"> Aplicativo Pokédex em React Native </h1>
 
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -28,6 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 A Pokédex é uma enciclopédia virtual portátil de alta tecnologia, que os treinadores Pokémon transportam para registrar todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores.
 
 
+
+<br>
+<br>
 
 
 Feito com ♥ by Thalles Rayan :wave: [LinkedIn](https://www.linkedin.com/in/thalles-rayan-03ab6b152/)
